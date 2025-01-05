@@ -11,10 +11,24 @@
   </a>
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=albey-chowhury&label=Profile%20views&color=0e75b6&style=flat" alt="albey-chowhury"/> </p>
-<h3 align="left">The utilize tech  i use</h3>
 
 ###
 
+<h4 align="left">The utilize System i use</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 align="left">The utilize tech  i use</h3>
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
